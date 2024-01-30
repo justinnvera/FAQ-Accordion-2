@@ -54,4 +54,3 @@ I was having trouble making the FAQ title not move whenever the paragraphs would
 ## Author
 
 - Website - [Trites WebDev](https://www.https://www.fiverr.com/trites_webdev.com)
-- 
